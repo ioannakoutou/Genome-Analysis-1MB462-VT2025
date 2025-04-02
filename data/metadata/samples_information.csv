@@ -12,9 +12,9 @@ Control_2_f1.fq.gz,Illumina wild type – forward – replicate 2 (transcriptome
 Control_2_r2.fq.gz,Illumina wild type – reverse – replicate 2 (transcriptome),Illumina NovaSeq 6000
 Control_3_f1.fq.gz,Illumina wild type – forward – replicate 3 (transcriptome),Illumina NovaSeq 6000
 Control_3_r2.fq.gz,Illumina wild type – reverse – replicate 3 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_1_f1.fq.gz,Illumina treated (42°C, 12h) – forward – replicate 1 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_1_r2.fq.gz,Illumina treated (42°C, 12h) – reverse – replicate 1 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_2_f1.fq.gz,Illumina treated (42°C, 12h) – forward – replicate 2 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_2_r2.fq.gz,Illumina treated (42°C, 12h) – reverse – replicate 2 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_3_f1.fq.gz,Illumina treated (42°C, 12h) – forward – replicate 3 (transcriptome),Illumina NovaSeq 6000
-Heat_treated_42_12h_3_r2.fq.gz,Illumina treated (42°C, 12h) – reverse – replicate 3 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_1_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_1_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_2_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_2_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_3_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 3 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_3_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 3 (transcriptome),Illumina NovaSeq 6000
