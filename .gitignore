@@ -1,0 +1,23 @@
+# Ignore raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Ignore alignment/assembly files
+*.sam
+*.bam
+*.bai
+*.gfa
+*.fasta
+*.fa
+*.fai
+*.gff
+*.gff3
+
+# Ignore results and logs
+*.log
+*.err
+*.out
+*.report
+*.html
