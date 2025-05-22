@@ -1,0 +1,20 @@
+sample_file,sample_description,technology
+chr3_illumina_R1.fastq.gz,Illumina reads - forward (chr3),Illumina NovaSeq 6000
+chr3_illumina_R2.fastq.gz,Illumina reads - reverse (chr3),Illumina NovaSeq 6000
+chr3_clean_nanopore.fq.gz,Nanopore clean reads (chr3),Oxford Nanopore PromethION
+chr3_clean_nanopore.hist,Nanopore clean reads (chr3),Oxford Nanopore PromethION
+chr3_clean_nanopore.ktab,Nanopore clean reads (chr3),Oxford Nanopore PromethION
+chr3_hiC_R1.fastq.gz,Hi-C clean reads (chr3),Illumina NovaSeq 6000
+chr3_hiC_R2.fastq.gz,Hi-C clean reads (chr3),Illumina NovaSeq 6000
+Control_1_f1.fq.gz,Illumina wild type – forward – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Control_1_r2.fq.gz,Illumina wild type – reverse – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Control_2_f1.fq.gz,Illumina wild type – forward – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Control_2_r2.fq.gz,Illumina wild type – reverse – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Control_3_f1.fq.gz,Illumina wild type – forward – replicate 3 (transcriptome),Illumina NovaSeq 6000
+Control_3_r2.fq.gz,Illumina wild type – reverse – replicate 3 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_1_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_1_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 1 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_2_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_2_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 2 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_3_f1.fq.gz,Illumina treated (42°C_12h) – forward – replicate 3 (transcriptome),Illumina NovaSeq 6000
+Heat_treated_42_12h_3_r2.fq.gz,Illumina treated (42°C_12h) – reverse – replicate 3 (transcriptome),Illumina NovaSeq 6000
